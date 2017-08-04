@@ -1,0 +1,3 @@
+[submodule "js-linked-list-front"]
+	path = js-linked-list-front
+	url = https://github.com/riftrid3r/js-linked-list-front.git
